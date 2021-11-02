@@ -1,5 +1,5 @@
 # Empirical-Asset-Pricing-via-Machine-Learning-Evidence-from-the-German-Stock-Market
-Machine learning methods for forecasting stock returns
+Machine learning methods for identifing investment factors
 
 There are now hundreds of different signals in the literature for predicting the return of a stock. These have been tested extensively, especially in regression models. The goal of this master thesis is to present a:
 - comparative analysis of different machine learning methods for the problem of empirical valuation of stock prices. 
